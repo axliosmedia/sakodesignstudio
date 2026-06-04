@@ -1,0 +1,6 @@
+{
+  "name": "Sako Design Studio",
+  "description": "Sako Design Studio - by Sanjana Chacko. Premium Haute-Luxury Interior Design Studio in Aundh, Pune. Specializing in warm, elegant, and architectural residential and commercial interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
